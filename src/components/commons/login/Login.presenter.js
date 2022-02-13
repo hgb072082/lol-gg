@@ -15,7 +15,7 @@ export default function LoginPageUI() {
           <Styles.LoginInput></Styles.LoginInput>
           <Styles.LoginSubText>비밀번호</Styles.LoginSubText>
           <Styles.LoginInput></Styles.LoginInput>
-          <Styles.LoginBtn>로그인</Styles.LoginBtn>
+          <Styles.LoginBtn>제출하기</Styles.LoginBtn>
         </Styles.InnerWrapper>
       </Styles.Wrapper>
     </>
